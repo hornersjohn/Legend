@@ -1,0 +1,4 @@
+[gd_scene format=2]
+
+[node name="HBoxContainer" type="HBoxContainer"]
+alignment = 1
